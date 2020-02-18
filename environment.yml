@@ -1,0 +1,28 @@
+name: data_files
+channels:
+  - conda-forge
+dependencies:
+  - bokeh
+  - curl
+  - dask
+  - distributed
+  - fastparquet
+  - gdal
+  - h5py
+  - jupyterlab>=1.0
+  - matplotlib
+  - netcdf4
+  - pillow
+  - pip
+  - pyarrow
+  - pyhdf
+  - pytables
+  - python=3.7
+  - pyyaml
+  - rasterio
+  - requests
+  - scipy
+  - setuptools
+  - six
+  - xarray
+  - zarr
